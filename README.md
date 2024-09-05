@@ -1,3 +1,5 @@
+# Extracting Data from Pdfs
+
 ## Extracting Tables from Double-Column PDFs: A step-by-step Guide Using Camelot
 Extracting tables from double-column PDFs, a common format in academic research papers, poses unique challenges due to their complex layout. This article oultines a step by step guide of extracting tables out of a double-column pdf using the Camelot library for both bordered and borderless tables. 
 
